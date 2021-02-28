@@ -1,0 +1,10 @@
+server:
+  port: 8081
+  
+login:
+  username: Cola
+  password: 123456
+
+jwt:
+  secret: secret@!!!$@@!$%
+  expire: 86400000
